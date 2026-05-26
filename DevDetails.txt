@@ -2,3 +2,8 @@
 2.DevaMurugan
 3.AntonyDass
 4.Hema
+
+* Jeanpiere - fullstack[Frontedn / Backend]
+* DevaMurugan - Backend [Python/Dotnet]
+* AntonyDass - Mobile Developement 
+* Hema - fullstack [Frontedn / Backend]
