@@ -7,3 +7,5 @@
 * DevaMurugan - Backend [Python/Dotnet]
 * AntonyDass - Mobile Developement 
 * Hema - fullstack [Frontedn / Backend]
+
+| Training First Month had been Completed |
